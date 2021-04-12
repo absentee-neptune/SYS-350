@@ -128,7 +128,7 @@ function cloneInteractive {  # this function is for when a user wants to manuall
     }
 }
 
-$configuration_path = "PowerCLI/cloner.json"  # the path to the .json file being used as a template when variable is used
+$configuration_path = "Management Automation/cloner.json"  # the path to the .json file being used as a template when variable is used
 $interactive = $true  # states that the following functions are going to be interactive when variable is used
 $conf = ""  # a blank variable for the .json configuration file
 
