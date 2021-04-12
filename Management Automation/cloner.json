@@ -3,6 +3,6 @@
     "esxi_server" : "super5.cyber.local",
     "base_folder" : "BASE-VMS",
     "clone_type" : "F",
-    "preferred_network" : "BLUE8-LAN",
+    "preferred_network" : "CYBER",
     "preferred_datastore" : "datastore2-super5"
 }
