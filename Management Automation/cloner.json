@@ -1,8 +1,8 @@
 {
     "vcenter_server" : "vcenter.brianna.local",
-    "esxi_server" : "super8.cyber.local",
+    "esxi_server" : "super5.cyber.local",
     "base_folder" : "BASE-VMS",
-    "clone_type" : "L",
+    "clone_type" : "F",
     "preferred_network" : "BLUE8-LAN",
-    "preferred_datastore" : "datastore2-super8"
+    "preferred_datastore" : "datastore2-super5"
 }
